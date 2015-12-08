@@ -1,2 +1,2 @@
 # freecodecamp
-code snippets written for [Free Code Camp](http://www.freecodecamp.com/map)
+Code snippets written for [Free Code Camp](http://www.freecodecamp.com/map)
